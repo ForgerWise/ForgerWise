@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**ForgerWise/ForgerWise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I am ForgerWise. A student studying at Osaka University.
 
-Here are some ideas to get you started:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForgerWise&show_icons=true&layout=compact&hide=issues&line_height=24)](https://github.com/ForgerWise/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForgerWise&layout=compact&hide=cpp)](https://github.com/ForgerWise/github-readme-stats)
+
+<a href="https://github.com/ForgerWise/battlesnake-duel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ForgerWise&repo=battlesnake-duel" />
+</a>
+<a href="https://github.com/ForgerWise/battlesnake-solo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ForgerWise&repo=battlesnake-solo" />
+</a>
+
+</div>
