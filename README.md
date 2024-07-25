@@ -8,13 +8,6 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/joewang85jp/?ext=heatmap)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForgerWise&show_icons=true&layout=compact&hide=issues&line_height=24)](https://github.com/ForgerWise/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForgerWise&layout=compact&hide=c%2B%2B)](https://github.com/ForgerWise/github-readme-stats)
-
-<a href="https://github.com/ForgerWise/battlesnake-duel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ForgerWise&repo=battlesnake-duel" />
-</a>
-<a href="https://github.com/ForgerWise/battlesnake-solo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ForgerWise&repo=battlesnake-solo" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForgerWise&layout=compact)](https://github.com/ForgerWise/github-readme-stats)
 
 </div>
