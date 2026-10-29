@@ -46,7 +46,7 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 
 ### 💼 Experience
 
-**How Television** — 2-day developer internship: top 3 of all participants on the challenge KPI; recognized for consistent performance and use of AI & GitHub  
+**How Television** — 2-day developer internship: top 3 of all participants on the challenge KPI  
 **M3** — data analysis and a data-driven promotion proposal (pandas, statsmodels)  
 **Stanby** — architecture and Python backend for an auto-apply feature, demo in 4 days  
 **PKSHA Technology** — serverless Slack ranking tool with LLM summaries (AWS Lambda, EventBridge, Azure AI)  
@@ -92,7 +92,7 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" title="OpenAI Codex">
 <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
-<br><sub>Used for research code, implementation, debugging, and code review; I review and test every change before adopting it. Wiser Locker and FoodList started hand-written, with AI added later for features, fixes, and refactoring; Galaxization and my Nuxt websites are built with these agents, while I own the design, review, testing, and release.</sub>
+<br><sub>Beyond writing code, I use them even more as a sparring partner for thinking problems through and finding ideas. Wiser Locker and FoodList were hand-written at first and are now extended with AI; Galaxization and my Nuxt websites are written by AI. I own the requirements and design decisions, and set what to test or let the agents design their own tests.</sub>
 
 ### 📊 GitHub
 
