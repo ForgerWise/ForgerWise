@@ -28,8 +28,8 @@ First author at **IEEE SmartComp 2026** · 🏆 Encouragement Presentation Award
 
 <a href="https://www.wiserlocker.com"><img align="left" width="64" src="assets/apps/wiser-locker.png" alt="Wiser Locker icon"></a>
 
-**[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher  
-Private photos and videos, encrypted on-device and organized by tags instead of folders. [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)
+**[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher · Firebase  
+Private photos and videos, encrypted on-device and organized by tags instead of folders, with Firebase and Google Analytics behind it and Google Ads campaigns for installs. [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)
 <br clear="left">
 
 <a href="https://github.com/ForgerWise/FoodList"><img align="left" width="64" src="assets/apps/foodlist.png" alt="FoodList icon"></a>
@@ -77,22 +77,25 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sqlite&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" title="SQLite"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" title="AWS"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker"></picture>
-<br><sub>Flask · FastAPI · SQLite · AWS · Docker</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=gcp&theme=light" alt="Google Cloud" title="Google Cloud"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" title="Firebase"></picture>
+<br><sub>Flask · FastAPI · SQLite · AWS · Docker · Google Cloud · Firebase</sub>
 
-**Apps & tools**<br>
+**Apps, games & tools**<br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter" title="Flutter"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=godot&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=godot&theme=light" alt="Godot" title="Godot"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino" title="Arduino"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" title="Linux"></picture>
-<br><sub>Flutter · React · Arduino · Git · Linux</sub>
+<br><sub>Flutter · React · Godot · Arduino · Git · Linux</sub>
 
 **AI-assisted development**<br>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" title="Claude Code">
 <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" title="OpenAI Codex">
 <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
-<br><sub>Beyond writing code, I use them even more as a sparring partner for thinking problems through and finding ideas. Wiser Locker and FoodList were hand-written at first and are now extended with AI; Galaxization and my Nuxt websites are written by AI. I own the requirements and design decisions, and set what to test or let the agents design their own tests.</sub>
+<br><sub>Beyond writing code, I use them even more as a sparring partner for thinking problems through and finding ideas. Wiser Locker and FoodList were hand-written at first and are now extended with AI; my research code mixes hand-written and AI-written parts, mostly AI; Galaxization and my Nuxt websites are written by AI. I own the requirements and design decisions, and set what to test or let the agents design their own tests.</sub>
 
 ### 📊 GitHub
 
