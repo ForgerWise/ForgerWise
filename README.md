@@ -51,9 +51,28 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 
 ### 🧰 Tech stack
 
+**Languages**<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ccpp%2Cdart%2Cflutter%2Cflask%2Csqlite%2Caws&perline=8&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py%2Cpytorch%2Ccpp%2Cdart%2Cflutter%2Cflask%2Csqlite%2Caws&perline=8&theme=light" alt="Python, PyTorch, C++, Dart, Flutter, Flask, SQLite, AWS">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Cc%2Cdart%2Cjava%2Cts%2Cjs%2Chtml%2Ccss&perline=9&theme=dark">
+  <img height="40" src="https://skillicons.dev/icons?i=py%2Ccpp%2Cc%2Cdart%2Cjava%2Cts%2Cjs%2Chtml%2Ccss&perline=9&theme=light" alt="Python, C++, C, Dart, Java, TypeScript, JavaScript, HTML, CSS">
+</picture>
+
+**AI & research**<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Cunreal&perline=2&theme=dark">
+  <img height="40" src="https://skillicons.dev/icons?i=pytorch%2Cunreal&perline=2&theme=light" alt="PyTorch, Unreal Engine 5">
+</picture>
+
+**Backend & cloud**<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask%2Cfastapi%2Csqlite%2Caws%2Cdocker&perline=5&theme=dark">
+  <img height="40" src="https://skillicons.dev/icons?i=flask%2Cfastapi%2Csqlite%2Caws%2Cdocker&perline=5&theme=light" alt="Flask, FastAPI, SQLite, AWS, Docker">
+</picture>
+
+**Apps & tools**<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Creact%2Carduino%2Cgit%2Clinux&perline=5&theme=dark">
+  <img height="40" src="https://skillicons.dev/icons?i=flutter%2Creact%2Carduino%2Cgit%2Clinux&perline=5&theme=light" alt="Flutter, React, Arduino, Git, Linux">
 </picture>
 
 ### 📊 GitHub
