@@ -14,7 +14,7 @@
   <a href="mailto:contact@yingchiehwang.com"><img src="https://img.shields.io/badge/Email-contact@yingchiehwang.com-52525b?style=flat-square&logo=gmail&logoColor=white&labelColor=18181b" alt="Email"></a>
 </p>
 
-<p align="center">大阪大学大学院 情報科学研究科 修士1年。機械学習で都市規模シミュレーションを高速化する研究と、Android アプリ・ゲームの個人開発に取り組んでいます。</p>
+<p align="center"><b>English</b> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a></p>
 
 ### 🔭 Research
 
