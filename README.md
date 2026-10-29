@@ -52,8 +52,8 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 ### 🧰 Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,cpp,dart,flutter,flask,sqlite,aws&perline=8&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,dart,flutter,flask,sqlite,aws&perline=8&theme=light" alt="Python, PyTorch, C++, Dart, Flutter, Flask, SQLite, AWS">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ccpp%2Cdart%2Cflutter%2Cflask%2Csqlite%2Caws&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py%2Cpytorch%2Ccpp%2Cdart%2Cflutter%2Cflask%2Csqlite%2Caws&perline=8&theme=light" alt="Python, PyTorch, C++, Dart, Flutter, Flask, SQLite, AWS">
 </picture>
 
 ### 📊 GitHub
