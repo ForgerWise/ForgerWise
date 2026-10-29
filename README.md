@@ -46,7 +46,7 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 
 ### 💼 Experience
 
-**How Television** — 2-day developer internship: top 3 of all participants on the challenge KPI  
+**How Television** — 2-day developer internship with Claude Code and a GitHub PR → CI → deploy flow: top 3 of all participants on the challenge KPI  
 **M3** — data analysis and a data-driven promotion proposal (pandas, statsmodels)  
 **Stanby** — architecture and Python backend for an auto-apply feature, demo in 4 days  
 **PKSHA Technology** — serverless Slack ranking tool with LLM summaries (AWS Lambda, EventBridge, Azure AI)  
