@@ -29,7 +29,7 @@ First author at **IEEE SmartComp 2026** · 🏆 Encouragement Presentation Award
 <a href="https://www.wiserlocker.com"><img align="left" width="64" src="assets/apps/wiser-locker.png" alt="Wiser Locker icon"></a>
 
 **[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher · Firebase  
-Private photos and videos, encrypted on-device and organized by tags instead of folders, with Firebase and Google Analytics behind it and Google Ads campaigns for installs. [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)
+Private photos and videos, encrypted on-device and organized by tags instead of folders. A Firebase backend (Cloud Functions, Firestore, App Check) handles Google Play subscriptions, Google Drive provides end-to-end encrypted cloud sync, and Google Ads campaigns drive installs. [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)
 <br clear="left">
 
 <a href="https://github.com/ForgerWise/FoodList"><img align="left" width="64" src="assets/apps/foodlist.png" alt="FoodList icon"></a>
