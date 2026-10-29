@@ -87,6 +87,13 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" title="Linux"></picture>
 <br><sub>Flutter · React · Arduino · Git · Linux</sub>
 
+**AI-assisted development**<br>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" title="Claude Code">
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" title="OpenAI Codex">
+<img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
+<br><sub>Used for research code, implementation, debugging, and code review; I review and test every change before adopting it. My websites (Nuxt) are built with these agents, while I own the specs, review, testing, and deployment.</sub>
+
 ### 📊 GitHub
 
 <p>
