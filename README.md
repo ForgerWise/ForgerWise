@@ -17,9 +17,12 @@
 
 **Light-pollution prediction for flying taxis** · Yamaguchi Lab, The University of Osaka
 
-A geometry-aware neural surrogate (PyTorch 3D-CNN + MLP) with per-city occlusion correction that predicts reflected sunlight from Urban Air Mobility across a whole city. Predicting **10,000 observation points over a 5-second window** drops from **over 3 h of ray tracing to 1.62 s** (after one-time city initialization).
+Flying taxis (Urban Air Mobility) will reflect sunlight into streets and windows. I predict this glare across a whole city by splitting the problem in two: a geometry-aware neural surrogate (PyTorch 3D-CNN + MLP) trained once in an unoccluded environment and reused across cities without retraining, plus a geometric occlusion correction for each city's buildings.
 
-First author at **IEEE SmartComp 2026** · 🏆 Encouragement Presentation Award, **IPSJ ITS Workshop 2026** · [Details →](https://yingchiehwang.com/research)
+- ⚡ **Over 3 h → 1.62 s**: predicting a 5-second window (10 Hz) for 10,000 observation points, after one-time city initialization
+- 🎯 **10–54% lower RMSE** than the raw neural prediction across Rome, Taipei, and New York (18 configurations), and **32–91% higher precision** in dense high-rise New York
+
+First author at **IEEE SmartComp 2026** · 🏆 Encouragement Presentation Award, **IPSJ ITS Workshop 2026** · Journal extension under review · [Details →](https://yingchiehwang.com/research)
 
 ### 🛠️ Built under ForgerWise
 
