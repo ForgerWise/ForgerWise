@@ -92,7 +92,7 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" title="OpenAI Codex">
 <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
-<br><sub>Used for research code, implementation, debugging, and code review; I review and test every change before adopting it. My websites (Nuxt) are built with these agents, while I own the specs, review, testing, and deployment.</sub>
+<br><sub>Used for research code, implementation, debugging, and code review; I review and test every change before adopting it. Wiser Locker and FoodList started hand-written, with AI added later for features, fixes, and refactoring; Galaxization and my Nuxt websites are built with these agents, while I own the design, review, testing, and release.</sub>
 
 ### 📊 GitHub
 
