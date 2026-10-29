@@ -37,22 +37,23 @@ Track ingredients and expiry dates so food gets used before it goes to waste. [G
 
 <a href="https://galaxization.com"><img align="left" width="64" src="assets/apps/galaxization.png" alt="Galaxization icon"></a>
 
-**[Galaxization](https://galaxization.com)** · Desktop game · Rust + wgpu, no engine  
+**[Galaxization](https://galaxization.com)** · Desktop game · Windows / macOS / Linux  
 A living galaxy on your wallpaper where hundreds of civilizations rise, war, and ascend on their own. Coming soon on Steam.
 <br clear="left">
 
 ### 💼 Experience
 
-**PKSHA Technology** — serverless Slack ranking tool with LLM summaries (AWS Lambda, EventBridge, Azure AI)  
-**Stanby** — architecture and Python backend for an auto-apply feature, demo in 4 days  
+**How Television** — 2-day developer internship: top 3 of all participants on the challenge KPI; recognized for consistent performance and use of AI & GitHub  
 **M3** — data analysis and a data-driven promotion proposal (pandas, statsmodels)  
+**Stanby** — architecture and Python backend for an auto-apply feature, demo in 4 days  
+**PKSHA Technology** — serverless Slack ranking tool with LLM summaries (AWS Lambda, EventBridge, Azure AI)  
 **H&K** — HubSpot × fincode payment integration (Flask, AWS Lambda)
 
 ### 🧰 Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,rust,dart,ts,pytorch,flask,fastapi,sqlite,aws,docker,flutter,vue,nuxtjs,linux,git&perline=16&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,dart,ts,pytorch,flask,fastapi,sqlite,aws,docker,flutter,vue,nuxtjs,linux,git&perline=16&theme=light" alt="Python, C++, Rust, Dart, TypeScript, PyTorch, Flask, FastAPI, SQLite, AWS, Docker, Flutter, Vue, Nuxt, Linux, Git">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,cpp,dart,flutter,flask,sqlite,aws&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,dart,flutter,flask,sqlite,aws&perline=8&theme=light" alt="Python, PyTorch, C++, Dart, Flutter, Flask, SQLite, AWS">
 </picture>
 
 ### 📊 GitHub
