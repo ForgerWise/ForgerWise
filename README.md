@@ -107,8 +107,8 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
     <img height="165" src="https://github-readme-stats-forgerwises-projects.vercel.app/api?username=ForgerWise&show_icons=true&hide=issues&hide_rank=true&line_height=24&card_width=400&bg_color=00000000&title_color=b45309&icon_color=b45309&text_color=27272a&border_color=d0d7de&border_radius=12" alt="ForgerWise's GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-forgerwises-projects.vercel.app/api/top-langs/?username=ForgerWise&layout=compact&card_width=320&bg_color=00000000&title_color=fbbf24&text_color=e4e4e7&border_color=30363d&border_radius=12">
-    <img height="165" src="https://github-readme-stats-forgerwises-projects.vercel.app/api/top-langs/?username=ForgerWise&layout=compact&card_width=320&bg_color=00000000&title_color=b45309&text_color=27272a&border_color=d0d7de&border_radius=12" alt="ForgerWise's top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-forgerwises-projects.vercel.app/api/top-langs/?username=ForgerWise&layout=compact&hide=rust&card_width=320&bg_color=00000000&title_color=fbbf24&text_color=e4e4e7&border_color=30363d&border_radius=12">
+    <img height="165" src="https://github-readme-stats-forgerwises-projects.vercel.app/api/top-langs/?username=ForgerWise&layout=compact&hide=rust&card_width=320&bg_color=00000000&title_color=b45309&text_color=27272a&border_color=d0d7de&border_radius=12" alt="ForgerWise's top languages">
   </picture>
 </p>
 
