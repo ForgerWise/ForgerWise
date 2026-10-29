@@ -97,7 +97,7 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
 <br><sub>Beyond writing code, I use them even more as a sparring partner for thinking problems through and finding ideas. Wiser Locker and FoodList were hand-written at first and are now extended with AI; my research code mixes hand-written and AI-written parts, mostly AI; Galaxization and my Nuxt websites are written by AI. I own the requirements and design decisions, and set what to test or let the agents design their own tests.</sub>
 
-### 📊 GitHub
+### 📊 Stats
 
 <p>
   <picture>
@@ -108,6 +108,15 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-forgerwises-projects.vercel.app/api/top-langs/?username=ForgerWise&layout=compact&card_width=320&bg_color=00000000&title_color=fbbf24&text_color=e4e4e7&border_color=30363d&border_radius=12">
     <img height="165" src="https://github-readme-stats-forgerwises-projects.vercel.app/api/top-langs/?username=ForgerWise&layout=compact&card_width=320&bg_color=00000000&title_color=b45309&text_color=27272a&border_color=d0d7de&border_radius=12" alt="ForgerWise's top languages">
   </picture>
+</p>
+
+<p>
+  <a href="https://leetcode.com/u/joewang85jp/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/joewang85jp?theme=dark&font=Inter&border=0&radius=12">
+      <img height="185" src="https://leetcard.jacoblin.cool/joewang85jp?theme=light&font=Inter&border=0&radius=12" alt="LeetCode stats for joewang85jp">
+    </picture>
+  </a>
 </p>
 
 <details>
