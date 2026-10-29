@@ -30,14 +30,14 @@ First author at **IEEE SmartComp 2026** · 🏆 Encouragement Presentation Award
 
 **[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher · Firebase  
 Private photos and videos, encrypted on-device and organized by tags instead of folders. A Firebase backend (Cloud Functions, Firestore, App Check) handles Google Play subscriptions, and Google Drive provides end-to-end encrypted cloud sync. [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)  
-<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://playbadges.pavi2410.me/badge/downloads?id=com.forgerwise.wiserlocker&pretty" alt="Google Play downloads"></a> <a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://playbadges.pavi2410.me/badge/ratings?id=com.forgerwise.wiserlocker&pretty" alt="Google Play rating"></a>  
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://playbadges.pavi2410.me/badge/downloads?id=com.forgerwise.wiserlocker&pretty" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://github.com/ForgerWise/FoodList"><img align="left" width="64" src="assets/apps/foodlist.png" alt="FoodList icon"></a>
 
 **[FoodList](https://github.com/ForgerWise/FoodList)** · Android · Flutter + Hive  
 Track ingredients and expiry dates so food gets used before it goes to waste. [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.foodlist)  
-<a href="https://play.google.com/store/apps/details?id=com.forgerwise.foodlist"><img src="https://playbadges.pavi2410.me/badge/downloads?id=com.forgerwise.foodlist&pretty" alt="Google Play downloads"></a> <a href="https://play.google.com/store/apps/details?id=com.forgerwise.foodlist"><img src="https://playbadges.pavi2410.me/badge/ratings?id=com.forgerwise.foodlist&pretty" alt="Google Play rating"></a>  
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.foodlist"><img src="https://playbadges.pavi2410.me/badge/downloads?id=com.forgerwise.foodlist&pretty" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://galaxization.com"><img align="left" width="64" src="assets/apps/galaxization.png" alt="Galaxization icon"></a>
