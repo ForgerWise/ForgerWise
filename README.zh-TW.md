@@ -100,7 +100,7 @@
 <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" title="OpenAI Codex">
 <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
-<br><sub>除了寫程式，我更常把它們當作討論與壁打ち的對象，用來深入思考問題、尋找靈感。<br>
+<br><sub>除了寫程式，我更常把它們當作討論的對象，用來深入思考問題、尋找靈感。<br>
 先手寫、現在以 AI 擴充：Wiser Locker、FoodList · 以 AI 為主：研究程式 · 由 AI 撰寫：Galaxization、我的 Nuxt 網站、Wiser Locker 的 Firebase 後端。<br>
 需求與設計判斷由我負責；測試由我指定要測什麼，或讓 AI 自行設計。</sub>
 
