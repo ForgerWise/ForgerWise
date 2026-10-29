@@ -55,28 +55,37 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 ### 🧰 Tech stack
 
 **Languages**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Cc%2Cdart%2Cjava%2Cts%2Cjs%2Chtml%2Ccss&perline=9&theme=dark">
-  <img height="40" src="https://skillicons.dev/icons?i=py%2Ccpp%2Cc%2Cdart%2Cjava%2Cts%2Cjs%2Chtml%2Ccss&perline=9&theme=light" alt="Python, C++, C, Dart, Java, TypeScript, JavaScript, HTML, CSS">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" title="Python"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" title="C++"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=c&theme=light" alt="C" title="C"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart" title="Dart"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" title="Java"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript" title="TypeScript"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" title="JavaScript"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" title="HTML"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" title="CSS"></picture>
+<br><sub>Python · C++ · C · Dart · Java · TypeScript · JavaScript · HTML · CSS</sub>
 
 **AI & research**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Cunreal&perline=2&theme=dark">
-  <img height="40" src="https://skillicons.dev/icons?i=pytorch%2Cunreal&perline=2&theme=light" alt="PyTorch, Unreal Engine 5">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" title="PyTorch"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unreal&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=unreal&theme=light" alt="Unreal Engine 5" title="Unreal Engine 5"></picture>
+<br><sub>PyTorch · Unreal Engine 5</sub>
 
 **Backend & cloud**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask%2Cfastapi%2Csqlite%2Caws%2Cdocker&perline=5&theme=dark">
-  <img height="40" src="https://skillicons.dev/icons?i=flask%2Cfastapi%2Csqlite%2Caws%2Cdocker&perline=5&theme=light" alt="Flask, FastAPI, SQLite, AWS, Docker">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask" title="Flask"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="FastAPI" title="FastAPI"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sqlite&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" title="SQLite"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" title="AWS"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker"></picture>
+<br><sub>Flask · FastAPI · SQLite · AWS · Docker</sub>
 
 **Apps & tools**<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Creact%2Carduino%2Cgit%2Clinux&perline=5&theme=dark">
-  <img height="40" src="https://skillicons.dev/icons?i=flutter%2Creact%2Carduino%2Cgit%2Clinux&perline=5&theme=light" alt="Flutter, React, Arduino, Git, Linux">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter" title="Flutter"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino" title="Arduino"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"><img height="40" src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" title="Linux"></picture>
+<br><sub>Flutter · React · Arduino · Git · Linux</sub>
 
 ### 📊 GitHub
 
