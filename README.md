@@ -18,9 +18,9 @@
 
 ### 🔭 Research
 
-**Light-pollution prediction for flying taxis** · Yamaguchi Lab, The University of Osaka
+**Light-pollution prediction for flying cars** · Yamaguchi Lab, The University of Osaka
 
-Flying taxis (Urban Air Mobility) will reflect sunlight into streets and windows. I predict this glare across a whole city by splitting the problem in two: a geometry-aware neural surrogate (PyTorch 3D-CNN + MLP) trained once in an unoccluded environment and reused across cities without retraining, plus a geometric occlusion correction for each city's buildings.
+Flying cars (Urban Air Mobility) will reflect sunlight into streets and windows. I predict this glare across a whole city by splitting the problem in two: a geometry-aware neural surrogate (PyTorch 3D-CNN + MLP) trained once in an unoccluded environment and reused across cities without retraining, plus a geometric occlusion correction for each city's buildings.
 
 - ⚡ **Ray tracing: over 3 h → 1.62 s** to predict a 5-second window (10 Hz) at 10,000 observation points, after one-time city initialization
 - 🎯 **10–54% lower RMSE** than the raw neural prediction across Rome, Taipei, and New York (18 configurations), and a **32–91% relative gain in precision** in dense high-rise New York
