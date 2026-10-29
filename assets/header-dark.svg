@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Ying Chieh Wang — Software &amp; AI Engineer">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="rgba(255,255,255,0.07)"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.18" r="0.6">
+      <stop offset="0" stop-color="#fbbf24" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a1a1aa"/>
+    </linearGradient>
+    <linearGradient id="ray" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbbf24" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.55" stop-color="#09090b" stop-opacity="0"/>
+      <stop offset="1" stop-color="#09090b" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="340" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "PingFang TC", "Microsoft JhengHei", "Hiragino Sans", sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @keyframes shine { 0%, 100% { opacity: .35 } 50% { opacity: .9 } }
+    @keyframes blink { 0%, 100% { opacity: 1 } 50% { opacity: .25 } }
+    .ray { animation: shine 6s ease-in-out infinite; }
+    .ray2 { animation-delay: -2s; }
+    .ray3 { animation-delay: -4s; }
+    .pulse { animation: blink 2.4s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .ray, .pulse { animation: none; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#09090b"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+    <g stroke="url(#ray)" stroke-linecap="round">
+      <line class="ray" x1="1190" y1="-10" x2="760" y2="330" stroke-width="2"/>
+      <line class="ray ray2" x1="1190" y1="40" x2="880" y2="330" stroke-width="1.5"/>
+      <line class="ray ray3" x1="1140" y1="-10" x2="640" y2="330" stroke-width="1"/>
+    </g>
+    <rect width="1200" height="340" fill="url(#fade)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="19.5" fill="none" stroke="rgba(255,255,255,0.10)"/>
+
+  <g class="sans">
+    <rect x="64" y="58" width="252" height="32" rx="16" fill="#18181b" stroke="rgba(255,255,255,0.10)"/>
+    <circle class="pulse" cx="84" cy="74" r="5" fill="#22c55e"/>
+    <text x="98" y="79" font-size="14" fill="#e4e4e7">Open to 2028 new-grad roles</text>
+
+    <text x="62" y="160" font-size="64" font-weight="700" letter-spacing="-1.5" fill="url(#title)">Ying Chieh Wang<tspan dx="28" font-size="40" font-weight="500" letter-spacing="0" fill="#a1a1aa">王映傑</tspan></text>
+
+    <text x="64" y="208" font-size="24" fill="#e4e4e7">Software &amp; AI Engineer <tspan fill="#fbbf24">·</tspan> M.S. @ The University of Osaka</text>
+    <text x="64" y="244" font-size="18" fill="#a1a1aa">ML that turns hours of city-scale simulation into seconds — and apps &amp; games under <tspan fill="#fbbf24" font-weight="600">ForgerWise</tspan>.</text>
+  </g>
+
+  <g class="mono" font-size="14" fill="#a1a1aa">
+    <text x="64" y="298">~/osaka <tspan fill="#fbbf24">❯</tspan> python · rust · flutter · pytorch · aws</text>
+  </g>
+</svg>
