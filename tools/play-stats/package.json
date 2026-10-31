@@ -1,0 +1,12 @@
+{
+  "name": "play-stats",
+  "private": true,
+  "type": "module",
+  "description": "Updates the Google Play badges used by the profile README.",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "google-play-scraper": "10.1.3"
+  }
+}

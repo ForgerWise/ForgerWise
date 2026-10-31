@@ -35,14 +35,14 @@
 
 **[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher  
 私密照片與影片在裝置上加密，用標籤而不是資料夾整理。Firebase 後端（Cloud Functions、Firestore、App Check）處理 Google Play 訂閱，Google Drive 提供端對端加密的雲端同步。 [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)  
-<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://playbadges.pavi2410.me/badge/downloads?id=com.forgerwise.wiserlocker&pretty" alt="Google Play downloads"></a>  
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.wiserlocker.downloads.json&style=flat-square&cacheSeconds=3600&label=%E4%B8%8B%E8%BC%89" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://github.com/ForgerWise/FoodList"><img align="left" width="64" src="assets/apps/foodlist.png" alt="FoodList icon"></a>
 
 **[FoodList](https://github.com/ForgerWise/FoodList)** · Android · Flutter + Hive  
 記錄家中食材與到期日，讓食物在浪費之前用完。 [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.foodlist)  
-<a href="https://play.google.com/store/apps/details?id=com.forgerwise.foodlist"><img src="https://playbadges.pavi2410.me/badge/downloads?id=com.forgerwise.foodlist&pretty" alt="Google Play downloads"></a>  
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.foodlist"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.foodlist.downloads.json&style=flat-square&cacheSeconds=3600&label=%E4%B8%8B%E8%BC%89" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://galaxization.com"><img align="left" width="64" src="assets/apps/galaxization.png" alt="Galaxization icon"></a>

@@ -35,14 +35,14 @@
 
 **[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher  
 写真・動画を端末内で暗号化し、フォルダではなくタグで整理できるアプリです。Firebase のバックエンド（Cloud Functions、Firestore、App Check）で Google Play のサブスクリプションを処理し、Google Drive によるエンドツーエンド暗号化のクラウド同期に対応しています。 [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)  
-<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://playbadges.pavi2410.me/badge/downloads?id=com.forgerwise.wiserlocker&pretty" alt="Google Play downloads"></a>  
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.wiserlocker.downloads.json&style=flat-square&cacheSeconds=3600&label=%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://github.com/ForgerWise/FoodList"><img align="left" width="64" src="assets/apps/foodlist.png" alt="FoodList icon"></a>
 
 **[FoodList](https://github.com/ForgerWise/FoodList)** · Android · Flutter + Hive  
 家の食材と期限を記録し、無駄にする前に使い切るためのアプリです。 [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.foodlist)  
-<a href="https://play.google.com/store/apps/details?id=com.forgerwise.foodlist"><img src="https://playbadges.pavi2410.me/badge/downloads?id=com.forgerwise.foodlist&pretty" alt="Google Play downloads"></a>  
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.foodlist"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.foodlist.downloads.json&style=flat-square&cacheSeconds=3600&label=%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://galaxization.com"><img align="left" width="64" src="assets/apps/galaxization.png" alt="Galaxization icon"></a>
