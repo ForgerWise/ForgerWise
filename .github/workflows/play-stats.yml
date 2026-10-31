@@ -1,0 +1,55 @@
+name: Update Google Play stats
+
+on:
+  schedule:
+    # Daily at 03:17 UTC (12:17 JST).
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: play-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      # GitHub disables scheduled workflows after 60 days without repository
+      # activity; re-enabling through the API resets that timer without commits.
+      - name: Keep the schedule alive
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/play-stats.yml/enable"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: tools/play-stats/package-lock.json
+
+      - run: npm ci
+        working-directory: tools/play-stats
+
+      - run: npm start
+        working-directory: tools/play-stats
+
+      # Runs even if one app failed, so the other app's badge still updates.
+      - name: Commit updated badges
+        if: always()
+        run: |
+          git add data/play-stats
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update Google Play stats'
+          git pull --rebase
+          git push
