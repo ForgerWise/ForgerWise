@@ -27,7 +27,7 @@
 - ⚡ **光線追蹤：3 小時以上 → 1.62 秒**：預測 1 萬個觀測點的 5 秒時間窗（10 Hz），不含一次性的城市初始化
 - 🎯 在羅馬、台北、紐約（18 組設定）中，RMSE 比未修正的神經網路預測**低 10–54%**；紐約密集高樓區的 precision **相對提升 32–91%**
 
-**IEEE SmartComp 2026** 第一作者 · 🏆 **情報處理學會 ITS 研究會 2026** 獎勵發表賞 · 期刊擴充版審查中 · [詳細 →](https://yingchiehwang.com/zh-tw/research)
+**IEEE SmartComp 2026** 第一作者 · 🏆 **情報處理學會 ITS 研究會 2026** 獎勵發表賞 · 期刊擴充版（JIP）條件式接受 · [詳細 →](https://yingchiehwang.com/zh-tw/research)
 
 ### 🛠️ ForgerWise 作品
 
@@ -36,6 +36,13 @@
 **[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher  
 私密照片與影片在裝置上加密，用標籤而不是資料夾整理。Firebase 後端（Cloud Functions、Firestore、App Check）處理 Google Play 訂閱，Google Drive 提供端對端加密的雲端同步。 [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)  
 <a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.wiserlocker.downloads.json&style=flat-square&cacheSeconds=3600&label=%E4%B8%8B%E8%BC%89" alt="Google Play downloads"></a>  
+<br clear="left">
+
+<a href="https://wiserdish.com"><img align="left" width="64" src="assets/apps/wiser-dish.png" alt="Wiser Dish icon"></a>
+
+**[Wiser Dish](https://wiserdish.com)** · Android · Flutter + Drift (SQLite)  
+放在手機裡的食譜本：份量一換、材料自動算好，料理模式一次一步搭配計時器，還能做購物清單。食譜只存在手機裡，不用註冊、沒有廣告。2026 年 11 月上架。 [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserdish)
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserdish"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.wiserdish.downloads.json&style=flat-square&cacheSeconds=3600&label=%E4%B8%8B%E8%BC%89" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://github.com/ForgerWise/FoodList"><img align="left" width="64" src="assets/apps/foodlist.png" alt="FoodList icon"></a>
@@ -47,8 +54,20 @@
 
 <a href="https://galaxization.com"><img align="left" width="64" src="assets/apps/galaxization.png" alt="Galaxization icon"></a>
 
-**[Galaxization](https://galaxization.com)** · 桌面遊戲 · Windows / macOS / Linux  
-在桌布上持續演化的銀河，數百個文明自行興起、征戰與飛升。即將在 Steam 推出。
+**[Galaxization](https://galaxization.com)** · 桌面遊戲 · Windows · Rust + wgpu  
+住在 Windows 桌布上的星系文明模擬器：你工作的時候，文明在 20 萬顆恆星之間興起、貿易、開戰、衰亡。CPU 用不到 1%，遊戲蓋住它時就停止繪製。2026 年 12 月 11 日在 Steam 推出。 [加入 Steam 願望清單 ↗](https://store.steampowered.com/app/5579400/Galaxization/)
+<br clear="left">
+
+<a href="https://www.victarc.com/"><img align="left" width="64" src="assets/apps/victarc.png" alt="Victarc icon"></a>
+
+**[Victarc](https://www.victarc.com/)** · 網站 · Python (LightGBM) + Nuxt，AWS Lambda 與 Cloudflare Workers  
+英雄聯盟職業賽兩隊各有多少機會贏：開打前、選角完成後，以及比賽中每分鐘更新。每一筆賽前預測都會留著，賽後公開對答案。免費、免註冊。
+<br clear="left">
+
+<a href="https://www.forgerwise.com"><img align="left" width="64" src="assets/apps/wisecare.png" alt="WiseCare icon"></a>
+
+**WiseCare** · Android · Flutter + Rust (OpenMLS)  
+雇主家庭與外籍看護共用的照護日誌，各用自己的語言：訊息直接在手機上翻譯，照護紀錄點一下就完成，全部端對端加密。即將上架 Google Play。
 <br clear="left">
 
 ### 💼 經歷
@@ -101,7 +120,7 @@
 <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
 <br><sub>除了寫程式，我更常把它們當作討論的對象，用來深入思考問題、尋找靈感。<br>
-先手寫、現在以 AI 擴充：Wiser Locker、FoodList · 以 AI 為主：研究程式 · 由 AI 撰寫：Galaxization、我的 Nuxt 網站、Wiser Locker 的 Firebase 後端。<br>
+先手寫、現在以 AI 擴充：Wiser Locker、FoodList · 以 AI 為主：研究程式 · 由 AI 撰寫：Wiser Dish、Galaxization、Victarc、WiseCare、我的 Nuxt 網站、Wiser Locker 的 Firebase 後端。<br>
 需求與設計判斷由我負責；測試由我指定要測什麼，或讓 AI 自行設計。</sub>
 
 ### 📊 統計

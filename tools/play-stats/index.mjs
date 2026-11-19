@@ -3,7 +3,7 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import gplay from 'google-play-scraper';
 
-const APPS = ['com.forgerwise.wiserlocker', 'com.forgerwise.foodlist'];
+const APPS = ['com.forgerwise.wiserlocker', 'com.forgerwise.wiserdish', 'com.forgerwise.foodlist'];
 const OUT_DIR = new URL('../../data/play-stats/', import.meta.url);
 
 const BADGE = {
