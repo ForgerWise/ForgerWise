@@ -27,7 +27,7 @@
 - ⚡ **レイトレーシング：3 時間超 → 1.62 秒**：1 万地点・5 秒間（10 Hz）の予測、都市の初回初期化後
 - 🎯 ローマ・台北・ニューヨーク（18 設定）で、補正前のニューラル予測より **RMSE を 10–54% 改善**。高層が密集するニューヨークで precision を**相対 32–91% 向上**
 
-**IEEE SmartComp 2026** 筆頭著者 · 🏆 **情報処理学会 ITS 研究会 2026** 奨励発表賞 · 論文誌の拡張版を査読中 · [詳しく →](https://yingchiehwang.com/ja/research)
+**IEEE SmartComp 2026** 筆頭著者 · 🏆 **情報処理学会 ITS 研究会 2026** 奨励発表賞 · 論文誌（JIP）拡張版が条件付き採録 · [詳しく →](https://yingchiehwang.com/ja/research)
 
 ### 🛠️ ForgerWise のプロダクト
 
@@ -36,6 +36,13 @@
 **[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher  
 写真・動画を端末内で暗号化し、フォルダではなくタグで整理できるアプリです。Firebase のバックエンド（Cloud Functions、Firestore、App Check）で Google Play のサブスクリプションを処理し、Google Drive によるエンドツーエンド暗号化のクラウド同期に対応しています。 [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)  
 <a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.wiserlocker.downloads.json&style=flat-square&cacheSeconds=3600&label=%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89" alt="Google Play downloads"></a>  
+<br clear="left">
+
+<a href="https://wiserdish.com"><img align="left" width="64" src="assets/apps/wiser-dish.png" alt="Wiser Dish icon"></a>
+
+**[Wiser Dish](https://wiserdish.com)** · Android · Flutter + Drift (SQLite)  
+スマホの中のレシピ帳です。人数を変えれば分量も自動で換算、調理モードはタイマー付きで1ステップずつ、買い物リストも作れます。レシピはスマホの中だけに保存され、登録不要・広告なし。2026年11月リリース。 [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserdish)
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserdish"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.wiserdish.downloads.json&style=flat-square&cacheSeconds=3600&label=%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://github.com/ForgerWise/FoodList"><img align="left" width="64" src="assets/apps/foodlist.png" alt="FoodList icon"></a>
@@ -47,8 +54,20 @@
 
 <a href="https://galaxization.com"><img align="left" width="64" src="assets/apps/galaxization.png" alt="Galaxization icon"></a>
 
-**[Galaxization](https://galaxization.com)** · デスクトップゲーム · Windows / macOS / Linux  
-壁紙の上で銀河が進化し続け、数百の文明がひとりでに興り、争い、昇華していきます。Steam で近日公開。
+**[Galaxization](https://galaxization.com)** · デスクトップゲーム · Windows · Rust + wgpu  
+Windows のデスクトップ壁紙の中で動く銀河文明シミュレーターです。作業している間も、20万の恒星のあいだで文明が興り、交易し、戦い、滅びていきます。CPU 使用率は1%未満で、ゲームに覆われている間は描画を止めます。2026年12月11日に Steam で発売。 [Steam でウィッシュリストに追加 ↗](https://store.steampowered.com/app/5579400/Galaxization/)
+<br clear="left">
+
+<a href="https://www.victarc.com/"><img align="left" width="64" src="assets/apps/victarc.png" alt="Victarc icon"></a>
+
+**[Victarc](https://www.victarc.com/)** · Web · Python (LightGBM) + Nuxt、AWS Lambda と Cloudflare Workers  
+LoL プロの試合で、どちらがどれだけ勝ちそうかを予測します。試合前、ピック・バン後、そして試合中は毎分更新。試合前の予測はすべて残し、試合後に答え合わせを公開しています。無料・登録不要。
+<br clear="left">
+
+<a href="https://www.forgerwise.com"><img align="left" width="64" src="assets/apps/wisecare.png" alt="WiseCare icon"></a>
+
+**WiseCare** · Android · Flutter + Rust (OpenMLS)  
+家族と外国人介護者が、それぞれの言葉で共有する介護記録です。メッセージはスマホの中で翻訳、記録はワンタップ、すべてエンドツーエンドで暗号化されます。Google Play で近日公開。
 <br clear="left">
 
 ### 💼 経歴
@@ -101,7 +120,7 @@
 <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
 <br><sub>コードを書くだけでなく、考えを深めアイデアを広げる壁打ち相手として、むしろより多く使っています。<br>
-最初は手書き、現在は AI で拡張：Wiser Locker、FoodList · 主に AI：研究コード · AI が実装：Galaxization、Nuxt 製の Web サイト、Wiser Locker の Firebase バックエンド。<br>
+最初は手書き、現在は AI で拡張：Wiser Locker、FoodList · 主に AI：研究コード · AI が実装：Wiser Dish、Galaxization、Victarc、WiseCare、Nuxt 製の Web サイト、Wiser Locker の Firebase バックエンド。<br>
 要件と設計の判断は自分で行い、テストは観点を指示するか AI 自身に設計させています。</sub>
 
 ### 📊 統計

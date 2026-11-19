@@ -25,7 +25,7 @@ Flying cars (Urban Air Mobility) will reflect sunlight into streets and windows.
 - ⚡ **Ray tracing: over 3 h → 1.62 s** to predict a 5-second window (10 Hz) at 10,000 observation points, after one-time city initialization
 - 🎯 **10–54% lower RMSE** than the raw neural prediction across Rome, Taipei, and New York (18 configurations), and a **32–91% relative gain in precision** in dense high-rise New York
 
-First author at **IEEE SmartComp 2026** · 🏆 Encouragement Presentation Award, **IPSJ ITS Workshop 2026** · Journal extension under review · [Details →](https://yingchiehwang.com/research)
+First author at **IEEE SmartComp 2026** · 🏆 Encouragement Presentation Award, **IPSJ ITS Workshop 2026** · Journal extension conditionally accepted (JIP) · [Details →](https://yingchiehwang.com/research)
 
 ### 🛠️ Built under ForgerWise
 
@@ -34,6 +34,13 @@ First author at **IEEE SmartComp 2026** · 🏆 Encouragement Presentation Award
 **[Wiser Locker](https://www.wiserlocker.com)** · Android · Flutter + SQLCipher  
 Private photos and videos, encrypted on-device and organized by tags instead of folders. A Firebase backend (Cloud Functions, Firestore, App Check) handles Google Play subscriptions, and Google Drive provides end-to-end encrypted cloud sync. [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker)  
 <a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserlocker"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.wiserlocker.downloads.json&style=flat-square&cacheSeconds=3600" alt="Google Play downloads"></a>  
+<br clear="left">
+
+<a href="https://wiserdish.com"><img align="left" width="64" src="assets/apps/wiser-dish.png" alt="Wiser Dish icon"></a>
+
+**[Wiser Dish](https://wiserdish.com)** · Android · Flutter + Drift (SQLite)  
+A recipe book on your phone: scale servings and every amount follows, cook one step at a time with timers, and build shopping lists. Recipes stay on the phone, with no sign-up and no ads. Released November 2026. [Google Play ↗](https://play.google.com/store/apps/details?id=com.forgerwise.wiserdish)
+<a href="https://play.google.com/store/apps/details?id=com.forgerwise.wiserdish"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FForgerWise%2FForgerWise%2Fmain%2Fdata%2Fplay-stats%2Fcom.forgerwise.wiserdish.downloads.json&style=flat-square&cacheSeconds=3600" alt="Google Play downloads"></a>  
 <br clear="left">
 
 <a href="https://github.com/ForgerWise/FoodList"><img align="left" width="64" src="assets/apps/foodlist.png" alt="FoodList icon"></a>
@@ -45,8 +52,20 @@ Track ingredients and expiry dates so food gets used before it goes to waste. [G
 
 <a href="https://galaxization.com"><img align="left" width="64" src="assets/apps/galaxization.png" alt="Galaxization icon"></a>
 
-**[Galaxization](https://galaxization.com)** · Desktop game · Windows / macOS / Linux  
-A living galaxy on your wallpaper where hundreds of civilizations rise, war, and ascend on their own. Coming soon on Steam.
+**[Galaxization](https://galaxization.com)** · Desktop game · Windows · Rust + wgpu  
+A galaxy and civilization simulator that lives on your Windows desktop wallpaper: while you work, civilizations rise, trade, fight and fall among 200,000 stars. Under 1% CPU, and it stops drawing when a game covers it. On Steam December 10, 2026. [Wishlist on Steam ↗](https://store.steampowered.com/app/5579400/Galaxization/)
+<br clear="left">
+
+<a href="https://www.victarc.com/"><img align="left" width="64" src="assets/apps/victarc.png" alt="Victarc icon"></a>
+
+**[Victarc](https://www.victarc.com/)** · Web · Python (LightGBM) + Nuxt on AWS Lambda and Cloudflare Workers  
+Each team's chance to win a pro League of Legends match: before the game, after the draft, then every minute during play. Every pre-game forecast is kept and checked in public afterwards. Free, no sign-up.
+<br clear="left">
+
+<a href="https://www.forgerwise.com"><img align="left" width="64" src="assets/apps/wisecare.png" alt="WiseCare icon"></a>
+
+**WiseCare** · Android · Flutter + Rust (OpenMLS)  
+A shared care log for families and caregivers, each in their own language: messages are translated on the phone, care records take one tap, and everything is end-to-end encrypted. Coming soon on Google Play.
 <br clear="left">
 
 ### 💼 Experience
@@ -99,7 +118,7 @@ A living galaxy on your wallpaper where hundreds of civilizations rise, war, and
 <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" title="Gemini">
 <br><sub>Beyond writing code, I use them even more as a sparring partner for thinking problems through and finding ideas.<br>
-Hand-written first, now extended with AI: Wiser Locker, FoodList · Mostly AI: research code · Written by AI: Galaxization, my Nuxt websites, Wiser Locker's Firebase backend.<br>
+Hand-written first, now extended with AI: Wiser Locker, FoodList · Mostly AI: research code · Written by AI: Wiser Dish, Galaxization, Victarc, WiseCare, my Nuxt websites, Wiser Locker's Firebase backend.<br>
 I own the requirements and design decisions, and set what to test or let the agents design their own tests.</sub>
 
 ### 📊 Stats
